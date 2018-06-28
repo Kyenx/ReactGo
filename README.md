@@ -1,1 +1,1 @@
-# ReactGo
+# ReactGo -> Simple boilerplate
