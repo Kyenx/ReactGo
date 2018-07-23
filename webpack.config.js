@@ -6,7 +6,7 @@ var BUILD_DIR = path.resolve(__dirname, 'dist');
 var APP_DIR = path.resolve(__dirname, 'src');
 
 const htmlPlugin = new HtmlWebPackPlugin({
-  template: "./public/index.html",
+  template: "./dist/index.html",
   filename: "./index.html"
 });
 
