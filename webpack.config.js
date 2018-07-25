@@ -24,7 +24,7 @@ var config = {
         use: {
           loader : 'babel-loader',
           options: {
-            presets: ['react', 'es2015'],
+            presets: ['react'],
             plugins: ['transform-class-properties']
           }
         }
